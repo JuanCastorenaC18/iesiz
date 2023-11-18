@@ -75,7 +75,7 @@
               <div class="swiper-slide-caption section-md">
                 <div class="container">
                   <h1 data-caption-animate="fadeInLeft" data-caption-delay="0" style="color: #ffff;">EN MANTENIMIENTO</h1>
-                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximanente</a>
+                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximamente</a>
                 </div>
               </div>
             </div>
@@ -83,7 +83,7 @@
               <div class="swiper-slide-caption section-md">
                 <div class="container">
                   <h1 data-caption-animate="fadeInLeft" data-caption-delay="0" style="color: #ffff;">EN MANTENIMIENTO</h1>
-                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximanente</a>
+                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximamente</a>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@
               <div class="swiper-slide-caption section-md">
                 <div class="container">
                   <h1 data-caption-animate="fadeInLeft" data-caption-delay="0" style="color: #ffff;">EN MANTENIMIENTO</h1>
-                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximanente</a>
+                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximamente</a>
                 </div>
               </div>
             </div>
